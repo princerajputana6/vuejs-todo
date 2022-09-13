@@ -1,4 +1,4 @@
-# vuextodocrud
+<img width="867" alt="image" src="https://user-images.githubusercontent.com/10681348/168972730-30b5bf28-66af-4d33-a08f-ca03de6fbdf9.png">
 
 ## Project setup
 ```
